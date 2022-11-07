@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class GetMethods2 {
+public class C03_GetMethods2 {
     public static void main(String[] args) {
         System.setProperty("Webdriver.chore.driver", "src/driver/chromedriver.exe");
         WebDriver driver=new ChromeDriver();

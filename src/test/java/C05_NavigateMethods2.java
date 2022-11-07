@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class NavigateMethods2 {
+public class C05_NavigateMethods2 {
     public static void main(String[] args) {
         System.setProperty("Webdrver.chrome.driver", "src/driver.chromedriver.exe");
         WebDriver driver = new ChromeDriver();

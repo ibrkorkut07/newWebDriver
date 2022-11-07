@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class NavigateMethods1 {
+public class C04_NavigateMethods1 {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("Webdriver.chrome.driver", "src/driver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();

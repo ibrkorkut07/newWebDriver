@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7579455-5e7a-4651-a6bc-91a53175658d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GetMethods1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GetMethods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NavigateMethods1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NavigateMethods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C06_ManageMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C07_ManageWindowSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C08_ImplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C09_Revision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetMethods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C02_GetMethods1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetMethods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C03_GetMethods2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NavigateMethods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C04_NavigateMethods1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NavigateMethods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C05_NavigateMethods2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Webdriver01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C01_Webdriver01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,37 +59,37 @@
       <recent name="C:\Users\ibrko\IdeaProjects\WebdriverNew\src\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NavigateMethods2">
-    <configuration name="GetMethods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetMethods1" />
+  <component name="RunManager" selected="Application.C09_Revision">
+    <configuration name="C04_NavigateMethods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C04_NavigateMethods1" />
       <module name="newWebdriver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetMethods2" />
+    <configuration name="C05_NavigateMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C05_NavigateMethods2" />
       <module name="newWebdriver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigateMethods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NavigateMethods1" />
+    <configuration name="C06_ManageMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C06_ManageMethods" />
       <module name="newWebdriver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigateMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NavigateMethods2" />
+    <configuration name="C07_ManageWindowSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C07_ManageWindowSet" />
       <module name="newWebdriver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Webdriver01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Webdriver01" />
+    <configuration name="C09_Revision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C09_Revision" />
       <module name="newWebdriver" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NavigateMethods2" />
-        <item itemvalue="Application.NavigateMethods1" />
-        <item itemvalue="Application.GetMethods2" />
-        <item itemvalue="Application.WebdriverGetMethods1" />
-        <item itemvalue="Application.Webdriver01" />
+        <item itemvalue="Application.C09_Revision" />
+        <item itemvalue="Application.C07_ManageWindowSet" />
+        <item itemvalue="Application.C06_ManageMethods" />
+        <item itemvalue="Application.C05_NavigateMethods2" />
+        <item itemvalue="Application.C04_NavigateMethods1" />
       </list>
     </recent_temporary>
   </component>
