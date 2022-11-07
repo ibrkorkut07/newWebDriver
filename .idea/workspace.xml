@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7579455-5e7a-4651-a6bc-91a53175658d" name="Changes" comment="" />
+    <list default="true" id="a7579455-5e7a-4651-a6bc-91a53175658d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetMethods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetMethods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NavigateMethods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NavigateMethods2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/ibrko/IdeaProjects/WebdriverNew/src/library/selenium-java-4.6.0/selenium-support-4.6.0.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -47,7 +55,35 @@
       <recent name="C:\Users\ibrko\IdeaProjects\WebdriverNew\src\driver" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NavigateMethods2">
+    <configuration name="GetMethods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetMethods1" />
+      <module name="newWebdriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetMethods2" />
+      <module name="newWebdriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigateMethods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NavigateMethods1" />
+      <module name="newWebdriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigateMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NavigateMethods2" />
+      <module name="newWebdriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Webdriver01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Webdriver01" />
       <module name="newWebdriver" />
@@ -68,6 +104,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavigateMethods2" />
+        <item itemvalue="Application.NavigateMethods1" />
+        <item itemvalue="Application.GetMethods2" />
+        <item itemvalue="Application.WebdriverGetMethods1" />
         <item itemvalue="Application.Webdriver01" />
       </list>
     </recent_temporary>
